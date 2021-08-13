@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_1">Number 1</string>
+    <string name="txt_2">Number 2</string>
+    <string name="btn_1">OK</string>
+    <string name="txt_3">Number 1</string>
+    <string name="txt_4">Number 2</string>
+    <string name="btn_2">+</string>
+    <string name="btn_3">-</string>
+    <string name="btn_4">*</string>
+    <string name="btn_5">/</string>
+    <string name="btn_main"><![CDATA[=>]]></string>
+</resources>
